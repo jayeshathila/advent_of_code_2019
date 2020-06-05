@@ -16,11 +16,3 @@
 1. `cd /path/to/adevent_to_code`
 2. `rustc src/tyranny_of_rocket_equation.rs --out-dir aoc_outputs`
 3. `./aoc_outputs/tyranny_of_rocket_equation`
-
-https://visitor-badge.glitch.me/badge?page_id=jayeshathila.advent_of_code_2019
-
-https://img.shields.io/github/languages/code-size/jayeshathila/advent_of_code_2019
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.advent_of_code_2019)
-
-![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/advent_of_code_2019)
