@@ -20,3 +20,7 @@
 https://visitor-badge.glitch.me/badge?page_id=jayeshathila.advent_of_code_2019
 
 https://img.shields.io/github/languages/code-size/jayeshathila/advent_of_code_2019
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.advent_of_code_2019)
+
+![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/advent_of_code_2019)
