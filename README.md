@@ -18,3 +18,5 @@
 3. `./aoc_outputs/tyranny_of_rocket_equation`
 
 https://visitor-badge.glitch.me/badge?page_id=jayeshathila.til
+
+[visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.til)
